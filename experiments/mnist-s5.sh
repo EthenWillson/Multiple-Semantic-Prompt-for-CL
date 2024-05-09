@@ -10,7 +10,7 @@ OUTDIR=outputs/${DATASET}/5-task-new
 # hard coded inputs
 GPUID='0 1 2 3'
 CONFIG=configs/MNIST10_prompt-s5.yaml
-REPEAT=1
+REPEAT=3
 OVERWRITE=1
 
 ###############################################################
